@@ -1,0 +1,13 @@
+{
+    "mixers": [
+        {
+            "input": [
+                "./db_schema/base.schema.prisma",
+
+                "./db_schema/ticket.schema.prisma",
+                "./db_schema/ticket-activity.schema.prisma",
+                "./db_schema/ticket-progress.schema.prisma"
+            ]
+        }
+    ]
+}

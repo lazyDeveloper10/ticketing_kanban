@@ -1,0 +1,42 @@
+{
+    "name": "ticketing_kanban_server",
+    "version": "1.0.0",
+    "author": "Ernest Johanes",
+    "private": true,
+    "scripts": {
+        "tscInit": "npx tsc --init",
+        "dbInit": "npx prisma init",
+        "dbMerge": "npx prismix && prisma format",
+        "dbMigrateDev": "npx prisma migrate dev --name schema",
+        "dbMigrateGenerate": "npx prisma generate",
+        "dbMigrateDeploy": "npx prisma migrate deploy",
+        "dbMigrateReset": "npx prisma migrate reset",
+        "build": "tsc --project tsconfig.json",
+        "dev": "nodemon src/app.ts --trace-warnings",
+        "prod": "pm2 start ecosystem.config.js"
+    },
+    "dependencies": {
+        "@prisma/client": "^6.12.0",
+        "async-mutex": "^0.5.0",
+        "bullmq": "^5.56.5",
+        "convert-excel-to-json": "^1.7.0",
+        "cors": "^2.8.5",
+        "express": "^5.1.0",
+        "helmet": "^8.1.0",
+        "joi": "^17.13.3",
+        "morgan": "^1.10.1",
+        "winston": "^3.17.0"
+    },
+    "devDependencies": {
+        "@babel/preset-env": "^7.28.0",
+        "@babel/preset-typescript": "^7.27.1",
+        "@types/cors": "^2.8.19",
+        "@types/express": "^5.0.3",
+        "@types/morgan": "^1.9.10",
+        "@types/node": "^24.0.15",
+        "dotenv": "^17.2.0",
+        "prisma": "^6.12.0",
+        "ts-node": "^10.9.2",
+        "typescript": "^5.8.3"
+    }
+}
