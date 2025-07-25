@@ -4588,3 +4588,1545 @@
   metadata: {},
   timestamp: '2025-07-24T16:38:06.232Z'
 }
+{
+  level: 'http',
+  message: '::1 - - [24/Jul/2025:23:55:25 +0000] "GET /api/ticket/progress HTTP/1.1" 200 14503 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-24T23:55:25.660Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [24/Jul/2025:23:55:35 +0000] "GET /api/ticket/7e7cc2e3-b593-4f13-957e-4c826e36dd68 HTTP/1.1" 200 799 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-24T23:55:35.034Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:00:16:36 +0000] "GET /api/ticket/progress HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T00:16:36.176Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:00:16:38 +0000] "GET /api/ticket/7e7cc2e3-b593-4f13-957e-4c826e36dd68 HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T00:16:38.089Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:00:17:08 +0000] "GET /api/ticket/e0377c80-5749-4f97-8fd5-2a7dfd2be637 HTTP/1.1" 200 797 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T00:17:08.718Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:00:33:09 +0000] "GET /api/ticket/progress HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T00:33:09.717Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:00:33:13 +0000] "GET /api/ticket/36ecc4ae-8c2c-46b6-aa38-f253f0be3d07 HTTP/1.1" 200 800 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T00:33:13.635Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:00:41:54 +0000] "GET /api/ticket/progress HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T00:41:54.501Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:00:41:57 +0000] "GET /api/ticket/e0377c80-5749-4f97-8fd5-2a7dfd2be637 HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T00:41:57.721Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:00:49:23 +0000] "POST /api/ticket/activity HTTP/1.1" 500 74 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T00:49:23.118Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:00:50:12 +0000] "POST /api/ticket/activity HTTP/1.1" 500 74 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T00:50:12.175Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:00:51:17 +0000] "POST /api/ticket/activity HTTP/1.1" 201 433 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T00:51:17.681Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:00:52:06 +0000] "GET /api/ticket/progress HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T00:52:06.386Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:00:52:09 +0000] "GET /api/ticket/e0377c80-5749-4f97-8fd5-2a7dfd2be637 HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T00:52:09.259Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:00:52:12 +0000] "POST /api/ticket/activity HTTP/1.1" 201 415 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T00:52:12.962Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:00:53:49 +0000] "GET /api/ticket/progress HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T00:53:49.561Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:00:53:52 +0000] "GET /api/ticket/e0377c80-5749-4f97-8fd5-2a7dfd2be637 HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T00:53:52.241Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:00:55:09 +0000] "POST /api/ticket/activity HTTP/1.1" 201 419 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T00:55:09.480Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:00:55:39 +0000] "POST /api/ticket/activity HTTP/1.1" 201 416 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T00:55:39.822Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:00:57:20 +0000] "GET /api/ticket/progress HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T00:57:20.961Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:00:57:25 +0000] "GET /api/ticket/e0377c80-5749-4f97-8fd5-2a7dfd2be637 HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T00:57:25.042Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:00:57:29 +0000] "POST /api/ticket/activity HTTP/1.1" 201 415 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T00:57:29.780Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:00:58:03 +0000] "GET /api/ticket/progress HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T00:58:03.058Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:00:58:06 +0000] "GET /api/ticket/e0377c80-5749-4f97-8fd5-2a7dfd2be637 HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T00:58:06.918Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:00:58:18 +0000] "GET /api/ticket/activity/many/e0377c80-5749-4f97-8fd5-2a7dfd2be637 HTTP/1.1" 200 3684 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T00:58:18.760Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:00:58:44 +0000] "GET /api/ticket/progress HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T00:58:44.395Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:00:58:46 +0000] "GET /api/ticket/e0377c80-5749-4f97-8fd5-2a7dfd2be637 HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T00:58:46.832Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:00:58:46 +0000] "GET /api/ticket/activity/many/e0377c80-5749-4f97-8fd5-2a7dfd2be637 HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T00:58:46.853Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:00:59:44 +0000] "GET /api/ticket/progress HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T00:59:44.566Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:00:59:46 +0000] "GET /api/ticket/e0377c80-5749-4f97-8fd5-2a7dfd2be637 HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T00:59:46.798Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:00:59:46 +0000] "GET /api/ticket/activity/many/e0377c80-5749-4f97-8fd5-2a7dfd2be637 HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T00:59:46.799Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:01:06:51 +0000] "GET /api/ticket/progress HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T01:06:51.402Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:01:06:55 +0000] "GET /api/ticket/36ecc4ae-8c2c-46b6-aa38-f253f0be3d07 HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T01:06:55.028Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:01:06:55 +0000] "GET /api/ticket/activity/many/36ecc4ae-8c2c-46b6-aa38-f253f0be3d07 HTTP/1.1" 200 12 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T01:06:55.102Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:01:07:06 +0000] "GET /api/ticket/e0377c80-5749-4f97-8fd5-2a7dfd2be637 HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T01:07:06.959Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:01:07:06 +0000] "GET /api/ticket/activity/many/e0377c80-5749-4f97-8fd5-2a7dfd2be637 HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T01:07:06.961Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:01:08:57 +0000] "GET /api/ticket/progress HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T01:08:57.648Z'
+}
+{
+  level: 'http',
+  message: '::ffff:127.0.0.1 - - [25/Jul/2025:01:09:01 +0000] "GET /api/ticket/e0377c80-5749-4f97-8fd5-2a7dfd2be637 HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T01:09:01.238Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:01:09:01 +0000] "GET /api/ticket/activity/many/e0377c80-5749-4f97-8fd5-2a7dfd2be637 HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T01:09:01.258Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:01:09:32 +0000] "GET /api/ticket/progress HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T01:09:32.529Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:01:09:34 +0000] "GET /api/ticket/e0377c80-5749-4f97-8fd5-2a7dfd2be637 HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T01:09:34.441Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:01:09:34 +0000] "GET /api/ticket/activity/many/e0377c80-5749-4f97-8fd5-2a7dfd2be637 HTTP/1.1" 200 3594 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T01:09:34.465Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:01:10:09 +0000] "GET /api/ticket/progress HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T01:10:09.900Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:01:10:12 +0000] "GET /api/ticket/e0377c80-5749-4f97-8fd5-2a7dfd2be637 HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T01:10:12.690Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:01:10:12 +0000] "GET /api/ticket/activity/many/e0377c80-5749-4f97-8fd5-2a7dfd2be637 HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T01:10:12.712Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:01:13:58 +0000] "POST /api/ticket/activity HTTP/1.1" 201 1161 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T01:13:58.015Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:01:13:58 +0000] "GET /api/ticket/activity/many/e0377c80-5749-4f97-8fd5-2a7dfd2be637 HTTP/1.1" 200 5052 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T01:13:58.050Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:01:19:14 +0000] "GET /api/ticket/progress HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T01:19:14.818Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:01:19:17 +0000] "GET /api/ticket/e0377c80-5749-4f97-8fd5-2a7dfd2be637 HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T01:19:17.432Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:01:19:17 +0000] "GET /api/ticket/activity/many/e0377c80-5749-4f97-8fd5-2a7dfd2be637 HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T01:19:17.450Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:01:19:29 +0000] "GET /api/ticket/36ecc4ae-8c2c-46b6-aa38-f253f0be3d07 HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T01:19:29.024Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:01:19:29 +0000] "GET /api/ticket/activity/many/36ecc4ae-8c2c-46b6-aa38-f253f0be3d07 HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T01:19:29.026Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:01:20:21 +0000] "GET /api/ticket/progress HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T01:20:21.668Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:01:20:24 +0000] "GET /api/ticket/e0377c80-5749-4f97-8fd5-2a7dfd2be637 HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T01:20:24.173Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:01:20:24 +0000] "GET /api/ticket/activity/many/e0377c80-5749-4f97-8fd5-2a7dfd2be637 HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T01:20:24.176Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:01:20:48 +0000] "POST /api/ticket/activity HTTP/1.1" 201 435 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T01:20:48.402Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:01:20:48 +0000] "GET /api/ticket/activity/many/e0377c80-5749-4f97-8fd5-2a7dfd2be637 HTTP/1.1" 200 5784 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T01:20:48.434Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:01:23:26 +0000] "GET /api/ticket/progress HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T01:23:26.006Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:01:23:29 +0000] "GET /api/ticket/e0377c80-5749-4f97-8fd5-2a7dfd2be637 HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T01:23:29.693Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:01:23:29 +0000] "GET /api/ticket/activity/many/e0377c80-5749-4f97-8fd5-2a7dfd2be637 HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T01:23:29.696Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:01:23:33 +0000] "GET /api/ticket/e0377c80-5749-4f97-8fd5-2a7dfd2be637 HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Safari/605.1.15"\n',
+  metadata: {},
+  timestamp: '2025-07-25T01:23:33.376Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:01:23:33 +0000] "GET /api/ticket/activity/many/e0377c80-5749-4f97-8fd5-2a7dfd2be637 HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Safari/605.1.15"\n',
+  metadata: {},
+  timestamp: '2025-07-25T01:23:33.381Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:01:23:33 +0000] "GET /api/ticket/progress HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Safari/605.1.15"\n',
+  metadata: {},
+  timestamp: '2025-07-25T01:23:33.391Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:01:23:37 +0000] "GET /api/ticket/progress HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Safari/605.1.15"\n',
+  metadata: {},
+  timestamp: '2025-07-25T01:23:37.935Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:01:23:42 +0000] "GET /api/ticket/e0377c80-5749-4f97-8fd5-2a7dfd2be637 HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Safari/605.1.15"\n',
+  metadata: {},
+  timestamp: '2025-07-25T01:23:42.013Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:01:23:42 +0000] "GET /api/ticket/activity/many/e0377c80-5749-4f97-8fd5-2a7dfd2be637 HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Safari/605.1.15"\n',
+  metadata: {},
+  timestamp: '2025-07-25T01:23:42.015Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:01:23:47 +0000] "GET /api/ticket/activity/many/e0377c80-5749-4f97-8fd5-2a7dfd2be637 HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T01:23:47.707Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:01:23:47 +0000] "GET /api/ticket/e0377c80-5749-4f97-8fd5-2a7dfd2be637 HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T01:23:47.709Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:01:23:47 +0000] "GET /api/ticket/progress HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T01:23:47.736Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:01:24:23 +0000] "GET /api/ticket/e0377c80-5749-4f97-8fd5-2a7dfd2be637 HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T01:24:23.260Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:01:24:23 +0000] "GET /api/ticket/activity/many/e0377c80-5749-4f97-8fd5-2a7dfd2be637 HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T01:24:23.276Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:01:24:23 +0000] "GET /api/ticket/progress HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T01:24:23.281Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:01:24:23 +0000] "GET /api/ticket/activity/many/e0377c80-5749-4f97-8fd5-2a7dfd2be637 HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T01:24:23.437Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:01:24:23 +0000] "GET /api/ticket/e0377c80-5749-4f97-8fd5-2a7dfd2be637 HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T01:24:23.438Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:01:24:23 +0000] "GET /api/ticket/progress HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T01:24:23.439Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:01:24:24 +0000] "GET /api/ticket/e0377c80-5749-4f97-8fd5-2a7dfd2be637 HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T01:24:24.791Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:01:24:24 +0000] "GET /api/ticket/activity/many/e0377c80-5749-4f97-8fd5-2a7dfd2be637 HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T01:24:24.796Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:01:24:24 +0000] "GET /api/ticket/progress HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T01:24:24.801Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:01:24:27 +0000] "GET /api/ticket/activity/many/e0377c80-5749-4f97-8fd5-2a7dfd2be637 HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T01:24:27.069Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:01:24:27 +0000] "GET /api/ticket/e0377c80-5749-4f97-8fd5-2a7dfd2be637 HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T01:24:27.070Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:01:24:27 +0000] "GET /api/ticket/progress HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T01:24:27.071Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:01:24:49 +0000] "GET /api/ticket/e0377c80-5749-4f97-8fd5-2a7dfd2be637 HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T01:24:49.815Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:01:24:49 +0000] "GET /api/ticket/activity/many/e0377c80-5749-4f97-8fd5-2a7dfd2be637 HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T01:24:49.817Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:01:24:49 +0000] "GET /api/ticket/progress HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T01:24:49.820Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:01:24:51 +0000] "GET /api/ticket/e0377c80-5749-4f97-8fd5-2a7dfd2be637 HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T01:24:51.006Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:01:24:51 +0000] "GET /api/ticket/activity/many/e0377c80-5749-4f97-8fd5-2a7dfd2be637 HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T01:24:51.008Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:01:24:51 +0000] "GET /api/ticket/progress HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T01:24:51.011Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:01:24:52 +0000] "GET /api/ticket/e0377c80-5749-4f97-8fd5-2a7dfd2be637 HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T01:24:52.615Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:01:24:52 +0000] "GET /api/ticket/activity/many/e0377c80-5749-4f97-8fd5-2a7dfd2be637 HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T01:24:52.618Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:01:24:52 +0000] "GET /api/ticket/progress HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T01:24:52.620Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:01:24:54 +0000] "GET /api/ticket/activity/many/e0377c80-5749-4f97-8fd5-2a7dfd2be637 HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T01:24:54.029Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:01:24:54 +0000] "GET /api/ticket/e0377c80-5749-4f97-8fd5-2a7dfd2be637 HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T01:24:54.031Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:01:24:54 +0000] "GET /api/ticket/progress HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T01:24:54.034Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:01:24:55 +0000] "GET /api/ticket/e0377c80-5749-4f97-8fd5-2a7dfd2be637 HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T01:24:55.279Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:01:24:55 +0000] "GET /api/ticket/progress HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T01:24:55.282Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:01:24:55 +0000] "GET /api/ticket/activity/many/e0377c80-5749-4f97-8fd5-2a7dfd2be637 HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T01:24:55.284Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:01:25:48 +0000] "GET /api/ticket/e0377c80-5749-4f97-8fd5-2a7dfd2be637 HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T01:25:48.977Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:01:25:48 +0000] "GET /api/ticket/activity/many/e0377c80-5749-4f97-8fd5-2a7dfd2be637 HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T01:25:48.978Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:01:25:48 +0000] "GET /api/ticket/progress HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T01:25:48.981Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:01:25:51 +0000] "GET /api/ticket/e0377c80-5749-4f97-8fd5-2a7dfd2be637 HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T01:25:51.140Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:01:25:51 +0000] "GET /api/ticket/activity/many/e0377c80-5749-4f97-8fd5-2a7dfd2be637 HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T01:25:51.142Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:01:25:51 +0000] "GET /api/ticket/progress HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T01:25:51.146Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:01:25:52 +0000] "GET /api/ticket/e0377c80-5749-4f97-8fd5-2a7dfd2be637 HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T01:25:52.279Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:01:25:52 +0000] "GET /api/ticket/activity/many/e0377c80-5749-4f97-8fd5-2a7dfd2be637 HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T01:25:52.281Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:01:25:52 +0000] "GET /api/ticket/progress HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T01:25:52.285Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:01:25:54 +0000] "GET /api/ticket/e0377c80-5749-4f97-8fd5-2a7dfd2be637 HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T01:25:54.231Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:01:25:54 +0000] "GET /api/ticket/activity/many/e0377c80-5749-4f97-8fd5-2a7dfd2be637 HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T01:25:54.233Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:01:25:54 +0000] "GET /api/ticket/progress HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T01:25:54.235Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:01:25:56 +0000] "GET /api/ticket/e0377c80-5749-4f97-8fd5-2a7dfd2be637 HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T01:25:56.167Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:01:25:56 +0000] "GET /api/ticket/activity/many/e0377c80-5749-4f97-8fd5-2a7dfd2be637 HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T01:25:56.168Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:01:25:56 +0000] "GET /api/ticket/progress HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T01:25:56.170Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:01:26:21 +0000] "GET /api/ticket/e0377c80-5749-4f97-8fd5-2a7dfd2be637 HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T01:26:21.852Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:01:26:21 +0000] "GET /api/ticket/activity/many/e0377c80-5749-4f97-8fd5-2a7dfd2be637 HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T01:26:21.854Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:01:26:21 +0000] "GET /api/ticket/progress HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T01:26:21.855Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:01:26:22 +0000] "GET /api/ticket/e0377c80-5749-4f97-8fd5-2a7dfd2be637 HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T01:26:22.193Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:01:26:22 +0000] "GET /api/ticket/activity/many/e0377c80-5749-4f97-8fd5-2a7dfd2be637 HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T01:26:22.194Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:01:26:22 +0000] "GET /api/ticket/progress HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T01:26:22.195Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:01:26:23 +0000] "GET /api/ticket/e0377c80-5749-4f97-8fd5-2a7dfd2be637 HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T01:26:23.900Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:01:26:23 +0000] "GET /api/ticket/activity/many/e0377c80-5749-4f97-8fd5-2a7dfd2be637 HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T01:26:23.901Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:01:26:23 +0000] "GET /api/ticket/progress HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T01:26:23.903Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:01:26:34 +0000] "GET /api/ticket/e0377c80-5749-4f97-8fd5-2a7dfd2be637 HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T01:26:34.159Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:01:26:34 +0000] "GET /api/ticket/activity/many/e0377c80-5749-4f97-8fd5-2a7dfd2be637 HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T01:26:34.162Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:01:26:34 +0000] "GET /api/ticket/progress HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T01:26:34.163Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:01:26:39 +0000] "GET /api/ticket/e0377c80-5749-4f97-8fd5-2a7dfd2be637 HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T01:26:39.169Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:01:26:39 +0000] "GET /api/ticket/activity/many/e0377c80-5749-4f97-8fd5-2a7dfd2be637 HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T01:26:39.170Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:01:26:39 +0000] "GET /api/ticket/progress HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T01:26:39.174Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:01:26:40 +0000] "GET /api/ticket/e0377c80-5749-4f97-8fd5-2a7dfd2be637 HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T01:26:40.901Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:01:26:40 +0000] "GET /api/ticket/activity/many/e0377c80-5749-4f97-8fd5-2a7dfd2be637 HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T01:26:40.905Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:01:26:40 +0000] "GET /api/ticket/progress HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T01:26:40.907Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:01:27:07 +0000] "GET /api/ticket/progress HTTP/1.1" 200 14503 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T01:27:07.657Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:01:27:11 +0000] "GET /api/ticket/progress HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T01:27:11.332Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:01:27:38 +0000] "GET /api/ticket/progress HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T01:27:38.416Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:01:49:15 +0000] "GET /api/ticket/progress HTTP/1.1" 200 14503 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T01:49:15.668Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:02:03:35 +0000] "GET /api/ticket/progress HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T02:03:35.442Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:02:03:41 +0000] "GET /api/ticket/e0377c80-5749-4f97-8fd5-2a7dfd2be637 HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T02:03:41.504Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:02:03:41 +0000] "GET /api/ticket/activity/many/e0377c80-5749-4f97-8fd5-2a7dfd2be637 HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T02:03:41.525Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:02:15:45 +0000] "GET /api/ticket/progress HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T02:15:45.943Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:02:15:49 +0000] "GET /api/ticket/e0377c80-5749-4f97-8fd5-2a7dfd2be637 HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T02:15:49.557Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:02:15:49 +0000] "GET /api/ticket/activity/many/e0377c80-5749-4f97-8fd5-2a7dfd2be637 HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T02:15:49.574Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:03:04:20 +0000] "GET /api/ticket/progress HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T03:04:20.764Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:03:04:23 +0000] "DELETE /api/ticket/30237114-8f9e-448e-852c-d2259d5d369d HTTP/1.1" 404 35 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T03:04:23.954Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:03:04:28 +0000] "GET /api/ticket/progress HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T03:04:28.116Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:03:04:31 +0000] "GET /api/ticket/progress HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T03:04:31.732Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:03:04:35 +0000] "DELETE /api/ticket/30237114-8f9e-448e-852c-d2259d5d369d HTTP/1.1" 404 35 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T03:04:35.873Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:03:05:43 +0000] "GET /api/ticket/progress HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T03:05:43.337Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:03:05:49 +0000] "DELETE /api/ticket/delete/30237114-8f9e-448e-852c-d2259d5d369d HTTP/1.1" 200 473 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T03:05:49.593Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:03:05:58 +0000] "GET /api/ticket/progress HTTP/1.1" 200 13698 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T03:05:58.684Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:03:06:23 +0000] "GET /api/ticket/progress HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T03:06:23.921Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:03:06:26 +0000] "DELETE /api/ticket/delete/e0377c80-5749-4f97-8fd5-2a7dfd2be637 HTTP/1.1" 200 473 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T03:06:26.450Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:03:06:44 +0000] "GET /api/ticket/progress HTTP/1.1" 200 12892 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T03:06:44.024Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:03:24:03 +0000] "GET /api/ticket/progress HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T03:24:03.235Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:03:49:12 +0000] "GET /api/ticket/progress HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T03:49:12.642Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:03:50:30 +0000] "GET /api/ticket/progress HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T03:50:30.044Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:03:51:34 +0000] "GET /api/ticket/progress HTTP/1.1" 200 12 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T03:51:34.241Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:03:51:40 +0000] "GET /api/ticket/progress HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T03:51:40.226Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:03:52:02 +0000] "POST /api/ticket/progress HTTP/1.1" 201 231 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T03:52:02.777Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:03:52:02 +0000] "GET /api/ticket/progress HTTP/1.1" 200 569 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T03:52:02.788Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:03:54:07 +0000] "POST /api/ticket/progress HTTP/1.1" 201 234 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T03:54:07.809Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:03:54:07 +0000] "GET /api/ticket/progress HTTP/1.1" 200 1130 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T03:54:07.818Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:03:54:22 +0000] "POST /api/ticket/progress HTTP/1.1" 201 231 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T03:54:22.193Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:03:54:22 +0000] "GET /api/ticket/progress HTTP/1.1" 200 1688 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T03:54:22.203Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:03:54:30 +0000] "POST /api/ticket/progress HTTP/1.1" 201 228 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T03:54:30.658Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:03:54:30 +0000] "GET /api/ticket/progress HTTP/1.1" 200 2243 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T03:54:30.667Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:04:05:07 +0000] "GET /api/ticket/progress HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T04:05:07.982Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:04:05:13 +0000] "DELETE /api/ticket/progress/delete/de311f50-4c4a-463e-9f03-59cca007d1b1 HTTP/1.1" 200 228 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T04:05:13.464Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:04:05:17 +0000] "POST /api/ticket/progress HTTP/1.1" 201 228 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T04:05:17.380Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:04:05:17 +0000] "GET /api/ticket/progress HTTP/1.1" 200 2243 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T04:05:17.389Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:04:06:59 +0000] "DELETE /api/ticket/progress/delete/de311f50-4c4a-463e-9f03-59cca007d1b1 HTTP/1.1" 500 74 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T04:06:59.761Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:04:07:02 +0000] "DELETE /api/ticket/progress/delete/de311f50-4c4a-463e-9f03-59cca007d1b1 HTTP/1.1" 500 74 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T04:07:02.694Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:04:07:05 +0000] "DELETE /api/ticket/progress/delete/de311f50-4c4a-463e-9f03-59cca007d1b1 HTTP/1.1" 500 74 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T04:07:05.708Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:04:07:26 +0000] "DELETE /api/ticket/progress/delete/de311f50-4c4a-463e-9f03-59cca007d1b1 HTTP/1.1" 500 74 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T04:07:26.701Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:04:08:52 +0000] "DELETE /api/ticket/progress/delete/de311f50-4c4a-463e-9f03-59cca007d1b1 HTTP/1.1" 500 74 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T04:08:52.731Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:04:09:09 +0000] "DELETE /api/ticket/progress/delete/de311f50-4c4a-463e-9f03-59cca007d1b1 HTTP/1.1" 500 74 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T04:09:09.706Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:04:09:14 +0000] "DELETE /api/ticket/progress/delete/de311f50-4c4a-463e-9f03-59cca007d1b1 HTTP/1.1" 500 74 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T04:09:14.711Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:04:10:01 +0000] "DELETE /api/ticket/progress/delete/de311f50-4c4a-463e-9f03-59cca007d1b1 HTTP/1.1" 500 74 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T04:10:01.819Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:04:13:27 +0000] "DELETE /api/ticket/progress/delete/de311f50-4c4a-463e-9f03-59cca007d1b1 HTTP/1.1" 500 74 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T04:13:27.720Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:04:13:34 +0000] "DELETE /api/ticket/progress/delete/de311f50-4c4a-463e-9f03-59cca007d1b1 HTTP/1.1" 500 74 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T04:13:34.699Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:04:15:38 +0000] "GET /api/ticket/progress HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T04:15:38.430Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:04:16:33 +0000] "GET /api/ticket/progress HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T04:16:33.015Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:04:16:51 +0000] "GET /api/ticket/progress HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T04:16:51.049Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:04:17:17 +0000] "GET /api/ticket/progress HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T04:17:17.895Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:04:17:20 +0000] "GET /api/ticket/type/dropdown HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T04:17:20.064Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:04:17:20 +0000] "GET /api/ticket/progress/dropdown HTTP/1.1" 200 593 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T04:17:20.067Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:04:17:47 +0000] "GET /api/ticket/progress HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T04:17:47.762Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:04:17:48 +0000] "GET /api/ticket/type/dropdown HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T04:17:48.945Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:04:17:48 +0000] "GET /api/ticket/progress/dropdown HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T04:17:48.948Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:04:22:31 +0000] "GET /api/ticket/progress HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T04:22:31.382Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:04:22:34 +0000] "GET /api/ticket/type/dropdown HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T04:22:34.448Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:04:22:34 +0000] "GET /api/ticket/progress/dropdown HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T04:22:34.454Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:04:22:51 +0000] "POST /api/ticket HTTP/1.1" 201 473 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T04:22:51.137Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:04:37:22 +0000] "GET /api/ticket/progress HTTP/1.1" 200 3048 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T04:37:22.330Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:04:37:23 +0000] "GET /api/ticket/type/dropdown HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T04:37:23.821Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:04:37:23 +0000] "GET /api/ticket/progress/dropdown HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T04:37:23.825Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:04:37:37 +0000] "POST /api/ticket HTTP/1.1" 201 470 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T04:37:37.148Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:04:37:57 +0000] "GET /api/ticket/progress HTTP/1.1" 200 3851 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T04:37:57.546Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:04:37:58 +0000] "GET /api/ticket/type/dropdown HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T04:37:58.651Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:04:37:58 +0000] "GET /api/ticket/progress/dropdown HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T04:37:58.655Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:04:38:05 +0000] "POST /api/ticket HTTP/1.1" 201 457 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T04:38:05.207Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:04:38:10 +0000] "DELETE /api/ticket/delete/30c71a69-aa00-4fe7-81cb-26ff23623221 HTTP/1.1" 200 457 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T04:38:10.285Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:04:38:13 +0000] "DELETE /api/ticket/delete/6a815905-cad5-4651-89ef-fde69a5c206a HTTP/1.1" 200 473 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T04:38:13.959Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:04:39:30 +0000] "POST /api/ticket HTTP/1.1" 201 468 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T04:39:30.288Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:04:40:09 +0000] "GET /api/ticket/progress HTTP/1.1" 200 3846 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T04:40:09.701Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:04:40:11 +0000] "GET /api/ticket/type/dropdown HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T04:40:11.421Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:04:40:11 +0000] "GET /api/ticket/progress/dropdown HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T04:40:11.426Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:04:41:46 +0000] "GET /api/ticket/progress HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T04:41:46.487Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:04:41:47 +0000] "GET /api/ticket/type/dropdown HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T04:41:47.679Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:04:41:47 +0000] "GET /api/ticket/progress/dropdown HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T04:41:47.683Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:04:42:10 +0000] "GET /api/ticket/progress HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T04:42:10.380Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:04:42:11 +0000] "GET /api/ticket/type/dropdown HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T04:42:11.318Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:04:42:11 +0000] "GET /api/ticket/progress/dropdown HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T04:42:11.323Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:04:43:01 +0000] "GET /api/ticket/progress HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T04:43:01.739Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:04:43:03 +0000] "GET /api/ticket/type/dropdown HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T04:43:03.223Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:04:43:03 +0000] "GET /api/ticket/progress/dropdown HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T04:43:03.243Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:04:44:37 +0000] "GET /api/ticket/progress HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T04:44:37.093Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:04:44:38 +0000] "GET /api/ticket/type/dropdown HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T04:44:38.671Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:04:44:38 +0000] "GET /api/ticket/progress/dropdown HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T04:44:38.675Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:04:47:19 +0000] "GET /api/ticket/progress HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T04:47:19.998Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:04:47:21 +0000] "GET /api/ticket/type/dropdown HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T04:47:21.703Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:04:47:21 +0000] "GET /api/ticket/progress/dropdown HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T04:47:21.706Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:04:49:09 +0000] "GET /api/ticket/progress HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T04:49:09.232Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:04:49:26 +0000] "GET /api/ticket/progress HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T04:49:26.526Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:04:49:38 +0000] "GET /api/ticket/progress HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T04:49:38.415Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:04:50:33 +0000] "GET /api/ticket/progress HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T04:50:33.643Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:04:51:29 +0000] "GET /api/ticket/progress HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T04:51:29.207Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:04:53:10 +0000] "GET /api/ticket/type/dropdown HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T04:53:10.996Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:04:53:11 +0000] "GET /api/ticket/progress/dropdown HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T04:53:11.006Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:04:54:47 +0000] "GET /api/ticket/progress HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T04:54:47.701Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:04:54:49 +0000] "GET /api/ticket/type/dropdown HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T04:54:49.063Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:04:54:49 +0000] "GET /api/ticket/progress/dropdown HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T04:54:49.069Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:05:02:55 +0000] "GET /api/ticket/progress HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T05:02:55.550Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:05:02:58 +0000] "GET /api/ticket/041cee51-c160-470d-96cb-3b6db9cd1c5b HTTP/1.1" 200 792 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T05:02:58.244Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:05:02:58 +0000] "GET /api/ticket/activity/many/041cee51-c160-470d-96cb-3b6db9cd1c5b HTTP/1.1" 200 12 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T05:02:58.266Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:05:03:08 +0000] "POST /api/ticket/activity HTTP/1.1" 201 419 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T05:03:08.983Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:05:03:09 +0000] "GET /api/ticket/activity/many/041cee51-c160-470d-96cb-3b6db9cd1c5b HTTP/1.1" 200 727 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T05:03:09.004Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:05:03:40 +0000] "GET /api/ticket/progress HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T05:03:40.344Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:05:03:43 +0000] "PUT /api/ticket/position HTTP/1.1" 200 77 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T05:03:43.399Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:05:03:45 +0000] "PUT /api/ticket/position HTTP/1.1" 200 77 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T05:03:45.219Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:05:03:53 +0000] "GET /api/ticket/38eabd45-a6ba-4399-8eca-e8739b4f36c5 HTTP/1.1" 200 800 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T05:03:53.559Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:05:03:53 +0000] "GET /api/ticket/activity/many/38eabd45-a6ba-4399-8eca-e8739b4f36c5 HTTP/1.1" 200 12 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T05:03:53.560Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:05:04:31 +0000] "GET /api/ticket/041cee51-c160-470d-96cb-3b6db9cd1c5b HTTP/1.1" 200 795 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T05:04:31.940Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:05:04:31 +0000] "GET /api/ticket/activity/many/041cee51-c160-470d-96cb-3b6db9cd1c5b HTTP/1.1" 200 727 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T05:04:31.942Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:05:11:51 +0000] "GET /api/ticket/activity/81db6627-a427-43d6-9f75-163e0f9f2e43 HTTP/1.1" 200 345 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T05:11:51.854Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:05:13:38 +0000] "DELETE /api/ticket/activity/delete/81db6627-a427-43d6-9f75-163e0f9f2e43 HTTP/1.1" 200 419 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T05:13:38.413Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:05:13:38 +0000] "GET /api/ticket/activity/many/041cee51-c160-470d-96cb-3b6db9cd1c5b HTTP/1.1" 200 12 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T05:13:38.430Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:05:14:12 +0000] "POST /api/ticket/activity HTTP/1.1" 201 434 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T05:14:12.307Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:05:14:12 +0000] "GET /api/ticket/activity/many/041cee51-c160-470d-96cb-3b6db9cd1c5b HTTP/1.1" 200 742 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T05:14:12.331Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:05:14:16 +0000] "DELETE /api/ticket/activity/delete/8135e1ad-09fe-4a6d-9358-d5dd3b50ef30 HTTP/1.1" 200 434 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T05:14:16.819Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:05:14:16 +0000] "GET /api/ticket/activity/many/041cee51-c160-470d-96cb-3b6db9cd1c5b HTTP/1.1" 200 12 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T05:14:16.825Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:05:19:16 +0000] "PUT /api/ticket/position HTTP/1.1" 200 77 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T05:19:16.135Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:05:20:02 +0000] "GET /api/ticket/progress HTTP/1.1" 200 3851 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T05:20:02.086Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:05:20:03 +0000] "PUT /api/ticket/position HTTP/1.1" 200 77 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T05:20:03.719Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:05:20:05 +0000] "PUT /api/ticket/position HTTP/1.1" 200 77 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T05:20:05.391Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:05:20:06 +0000] "PUT /api/ticket/position HTTP/1.1" 200 77 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T05:20:06.981Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:05:20:51 +0000] "GET /api/ticket/progress HTTP/1.1" 200 3848 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T05:20:51.460Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:05:21:22 +0000] "GET /api/ticket/progress HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T05:21:22.695Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:05:22:59 +0000] "GET /api/ticket/progress HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T05:22:59.009Z'
+}
+{
+  level: 'http',
+  message: '::1 - - [25/Jul/2025:05:24:03 +0000] "PUT /api/ticket/position HTTP/1.1" 200 77 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"\n',
+  metadata: {},
+  timestamp: '2025-07-25T05:24:03.544Z'
+}

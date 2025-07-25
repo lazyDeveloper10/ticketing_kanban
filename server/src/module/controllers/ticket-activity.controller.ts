@@ -70,6 +70,7 @@ export const createOneTicketActivity: any = async (req: Request, res: Response) 
 		);
 
 	} catch (err: any) {
+		console.log(err);
 		return await errorHandler(res, err);
 
 	}

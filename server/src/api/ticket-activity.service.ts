@@ -10,7 +10,7 @@ import { baseTicketActivitySelectedValue } from '../models';
 // CRUD API   ==================================================================================
 
 export const findAllTicketActivityApi = async (ticketId: string) => {
-	return await findDropdown(
+	const ticketActivityData = await findDropdown(
 		{
 			model: 'ticketActivity',
 			condition: {
@@ -24,6 +24,17 @@ export const findAllTicketActivityApi = async (ticketId: string) => {
 			]
 		}
 	);
+
+	if (ticketActivityData.length) {
+		ticketActivityData.map((item: any) => {
+
+			item.createdBy = JSON.parse(item.createdBy);
+
+			return item;
+		});
+	}
+
+	return ticketActivityData;
 };
 
 export const findByIdTicketActivityApi = async (id: string) => {
